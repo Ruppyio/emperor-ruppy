@@ -34,7 +34,7 @@
     "pretty-ms": "^7.0.1",
     "reflect-metadata": "^0.1.13",
     "tsconfig-paths": "^3.9.0",
-    "typeorm": "^0.2.32",
+    "typeorm": "^0.2.37",
     "winston": "^3.3.3"
   },
   "devDependencies": {
