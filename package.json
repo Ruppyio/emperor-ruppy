@@ -33,7 +33,7 @@
     "pg": "^8.6.0",
     "pretty-ms": "^7.0.1",
     "reflect-metadata": "^0.1.13",
-    "tsconfig-paths": "^3.9.0",
+    "tsconfig-paths": "^3.10.1",
     "typeorm": "^0.2.32",
     "winston": "^3.3.3"
   },
