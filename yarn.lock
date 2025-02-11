@@ -2888,19 +2888,19 @@ __metadata:
     dotenv: ^10.0.0
     emoji-regex: ^9.2.2
     eslint: ^8.4.1
-    husky: ^7.0.4
-    jest: ^27.5.1
-    lint-staged: ^12.1.7
+    husky: 7.0.4
+    jest: 27.5.1
+    lint-staged: 12.1.7
     pg: ^8.7.1
     prettier: ^2.5.1
     pretty-ms: ^7.0.1
     reflect-metadata: ^0.1.13
-    rimraf: ^3.0.2
-    ts-jest: ^27.1.2
-    ts-node: ^10.4.0
+    rimraf: 3.0.2
+    ts-jest: 27.1.2
+    ts-node: 10.4.0
     tsconfig-paths: ^3.12.0
     typeorm: ^0.2.41
-    typescript: ^4.5.2
+    typescript: 4.5.2
     winston: ^3.3.3
   languageName: unknown
   linkType: soft
@@ -3934,7 +3934,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"husky@npm:^7.0.4":
+"husky@npm:7.0.4":
   version: 7.0.4
   resolution: "husky@npm:7.0.4"
   bin:
@@ -4845,7 +4845,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jest@npm:^27.5.1":
+"jest@npm:27.5.1":
   version: 27.5.1
   resolution: "jest@npm:27.5.1"
   dependencies:
@@ -5086,7 +5086,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lint-staged@npm:^12.1.7":
+"lint-staged@npm:12.1.7":
   version: 12.1.7
   resolution: "lint-staged@npm:12.1.7"
   dependencies:
@@ -6402,7 +6402,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rimraf@npm:^3.0.0, rimraf@npm:^3.0.2":
+"rimraf@npm:3.0.2, rimraf@npm:^3.0.0, rimraf@npm:^3.0.2":
   version: 3.0.2
   resolution: "rimraf@npm:3.0.2"
   dependencies:
@@ -7105,7 +7105,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-jest@npm:^27.1.2":
+"ts-jest@npm:27.1.2":
   version: 27.1.2
   resolution: "ts-jest@npm:27.1.2"
   dependencies:
@@ -7139,7 +7139,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-node@npm:^10.4.0":
+"ts-node@npm:10.4.0":
   version: 10.4.0
   resolution: "ts-node@npm:10.4.0"
   dependencies:
@@ -7378,7 +7378,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^4.5.2":
+"typescript@npm:4.5.2":
   version: 4.5.2
   resolution: "typescript@npm:4.5.2"
   bin:
@@ -7388,7 +7388,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.5.2#~builtin<compat/typescript>":
+"typescript@patch:typescript@4.5.2#~builtin<compat/typescript>":
   version: 4.5.2
   resolution: "typescript@patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=493e53"
   bin:
