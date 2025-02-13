@@ -29,7 +29,7 @@
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
     "emoji-regex": "^9.2.2",
-    "pg": "^8.7.1",
+    "pg": "^8.13.3",
     "pretty-ms": "^7.0.1",
     "reflect-metadata": "^0.1.13",
     "tsconfig-paths": "^3.12.0",
